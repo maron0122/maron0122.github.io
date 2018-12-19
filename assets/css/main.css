@@ -1,0 +1,25 @@
+.cont1{
+  width: 200px;
+  background:#CCCCCC
+
+}
+.topname img{
+  display: block;
+  margin-left: 20px;
+  width: 120px;
+  margin-bottom: 25px;
+
+}
+
+.cont2{
+  width: auto;
+  margin: 0 auto;
+  margin-left: 200px;
+  background:#CCCCCC
+
+}
+.topphoto img{
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+}
