@@ -14,14 +14,13 @@
   display: flex;
   flex-direction: row;
   width: auto;
-
 }
 
 .cont4{
   width: 600px;
   margin-right: auto;
-  margin-left: 25%;
-
+  margin-left: 35%;
+  margin-right: 3%;
 }
 .nav1{
   height: 450px;
@@ -31,7 +30,7 @@
   display: flex;
   flex-direction: row;
   margin-left: 20px;
-  width: 120px;
+  width: 0px;
   height: 50px;
   text-align: left;
 }
@@ -43,13 +42,16 @@
 .topphoto{
   display: inline-block;
   margin-left:
+
 }
 
 .topphoto img{
 
   margin: 0 auto;
+  max-width: 600px;
+  min-width: auto;
+  width: 100%;
   display: inline-block;
 
-  height: 450px;
 
 }
