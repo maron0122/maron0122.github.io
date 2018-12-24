@@ -46,8 +46,6 @@
 
 .topphoto{
   display: inline-block;
-    margin-top: auto;
-    margin-bottom: auto;
 }
 
 .topphoto img{
@@ -56,4 +54,18 @@
   min-width: auto;
   width: 100%;
   display: inline-block;
+}
+
+
+.cont5{
+  width: 1000px;
+  height: auto;
+  margin-right: auto;
+  margin-left: 20%;
+  margin-right: 5%;
+
+}
+
+.contreport{
+  text-align: center;
 }
