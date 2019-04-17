@@ -14,7 +14,6 @@
   padding: 0;
   display: flex;
   flex-direction: row;
-  width: auto;
 
 
 }
@@ -26,13 +25,29 @@
   margin-right: 3%;
 
 }
+
+.cont4 img{
+  margin: 0 auto;
+  max-width: 600px;
+  min-width: auto;
+  width: 100%;
+  display: inline-block;
+}
+.cont4 p{
+  font-family: "Courier New", Courier, mono;
+  margin-top: auto;
+  font-size: 15px
+
+
+}
+
 .nav1{
   margin-top: 10px;
   height: 450px;
   list-style: none;
 }
 .nav1 p{
-  font-family: "Courier New", Courier, mono;
+  font-family: "futura";
   font-size: 15px;
   display: flex;
   flex-direction: row;
@@ -50,13 +65,7 @@
   display: inline-block;
 }
 
-.topphoto img{
-  margin: 0 auto;
-  max-width: 600px;
-  min-width: auto;
-  width: 100%;
-  display: inline-block;
-}
+
 
 
 .cont5{
